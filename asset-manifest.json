@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2794d78d.css",
+    "main.js": "/static/js/main.8c397fc8.js",
+    "static/media/awap22-image.png": "/static/media/awap22-image.1a9db4d94b88032a8994.png",
+    "static/media/meta-logo.png": "/static/media/meta-logo.b0c4aca67dee606be8b1.png",
+    "static/media/Rubik-ExtraBold.ttf": "/static/media/Rubik-ExtraBold.f8a8999c078e4c19d1c2.ttf",
+    "static/media/awap23-image.png": "/static/media/awap23-image.f473935432285955379a.png",
+    "static/media/AWAP-2025-Logo.png": "/static/media/AWAP-2025-Logo.b53c410bf389f4190c51.png",
+    "static/media/awap21-image.png": "/static/media/awap21-image.dbf01e65d3be7c25502e.png",
+    "static/media/regression-logo.png": "/static/media/regression-logo.f7da5db9dc922980b79f.png",
+    "static/media/rover.png": "/static/media/rover.a8d993f5afbb04f79146.png",
+    "static/media/jump_trading_logo.png": "/static/media/jump_trading_logo.640b94d4e2cb7c8b28c1.png",
+    "static/media/awap19-image.png": "/static/media/awap19-image.66c33d4b97d8624b5c7b.png",
+    "static/media/bloomberg-logo-blue.png": "/static/media/bloomberg-logo-blue.88e4aad94dcc86ad3a0b.png",
+    "static/media/sandia-logo.png": "/static/media/sandia-logo.f9f83d6fe0835fbf56bf.png",
+    "static/media/lockheed.png": "/static/media/lockheed.342398abefec874032fb.png",
+    "static/media/castles_landing_page_brown.jpg": "/static/media/castles_landing_page_brown.8c4ef049bba643b5f10f.jpg",
+    "static/media/bnymellon.jpeg": "/static/media/bnymellon.d2cd2c837956431062cb.jpeg",
+    "static/media/tradedesk.png": "/static/media/tradedesk.b8956fdecc4090a5bd41.png",
+    "static/media/ford.png": "/static/media/ford.608cf7d9ff8f99774711.png",
+    "static/media/janestreet-logo.png": "/static/media/janestreet-logo.7732cd75b201b1d1560c.png",
+    "static/media/stripe.png": "/static/media/stripe.f0b7eb0d3bbedd6c5373.png",
+    "static/media/aptiv-logo.png": "/static/media/aptiv-logo.558c6e65914025c7239b.png",
+    "static/media/scm-logo.png": "/static/media/scm-logo.a54cd5ab35d5b72a05ad.png",
+    "static/media/microsoft-logo2.png": "/static/media/microsoft-logo2.7eeda0e9ac34e13dfadd.png",
+    "static/media/citadel-logo.png": "/static/media/citadel-logo.77c4cab29fb604482d3b.png",
+    "static/media/omc-logo.png": "/static/media/omc-logo.19207c6d14a00d2f9302.png",
+    "index.html": "/index.html",
+    "main.2794d78d.css.map": "/static/css/main.2794d78d.css.map",
+    "main.8c397fc8.js.map": "/static/js/main.8c397fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2794d78d.css",
+    "static/js/main.8c397fc8.js"
+  ]
+}
