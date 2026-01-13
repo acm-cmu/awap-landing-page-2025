@@ -1,4 +1,6 @@
-# AWAP 2024 Landing Page
+Archived at https://www.acmatcmu.com/awap-landing-page-2025/                 
+
+# AWAP 2025 Landing Page
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Ensure git and npm are installed on your computer. 
 
 ## Running the website
